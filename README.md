@@ -9,7 +9,12 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [﻿reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-
-
 Ehsan made this edit in Eraser on Jan 23, 2023
+
+---
+
+
+trying links and no spell check happening here [﻿www.tryeraser.com](https://www.tryeraser.com) and [﻿www.yahoo.com](https://www.yahoo.com) and [﻿https://docs.slatejs.org/](https://docs.slatejs.org/)  and [﻿http://www.nextjs.org/](http://www.nextjs.org/) but it does happen with [﻿reveal.js](https://github.com/hakimel/reveal.js/)  
+
+
 
